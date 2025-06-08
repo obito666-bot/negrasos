@@ -606,3 +606,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [08Jun2025 23:43:34.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has made the advancement [Dismantle]
 [08Jun2025 23:43:34.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has made the advancement [Malevolent Shrine]
 [08Jun2025 23:43:34.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has made the advancement [Select Technique]
+[08Jun2025 23:45:48.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[08Jun2025 23:46:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[08Jun2025 23:49:11.961] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6eb9468d[id=<null>,name=El_Vertex_mc,properties={},legacy=false] (/10.147.19.160:58973) lost connection: Disconnected
+[08Jun2025 23:49:12.012] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jun2025 23:49:42.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[08Jun2025 23:51:44.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler was doomed to fall by Cursed Spirit Grade 2
+[08Jun2025 23:52:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has made the advancement [Fame -4-]
+[08Jun2025 23:52:17.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has made the advancement [Fame -3-]
+[08Jun2025 23:52:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[08Jun2025 23:53:54.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died

@@ -1,0 +1,100 @@
+{
+  "jujutsucraft:advancement_select_technique": {
+    "criteria": {
+      "advancement_select_technique_0": "2025-06-08 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:jujutsu_craft_skills": {
+    "criteria": {
+      "jujutsu_craft_skills_0": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_divine_dog_totality": {
+    "criteria": {
+      "skill_divine_dog_totality_0": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-08 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_advancements": {
+    "criteria": {
+      "battle_advancements_0": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:update": {
+    "criteria": {
+      "update_0": "2025-06-08 23:49:44 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_gojo": {
+    "criteria": {
+      "skill_gojo_0": "2025-06-08 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:advancement_insect": {
+    "criteria": {
+      "advancement_insect_0": "2025-06-08 23:42:38 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_merged_beast_agito": {
+    "criteria": {
+      "skill_merged_beast_agito_0": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-08 23:45:27 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_cursed_technique_lapse_blue": {
+    "criteria": {
+      "skill_cursed_technique_lapse_blue_0": "2025-06-08 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:start_jujutsu_craft": {
+    "criteria": {
+      "start_jujutsu_craft_0": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-06-08 23:44:10 +0000",
+      "minecraft:meadow": "2025-06-08 23:42:14 +0000"
+    },
+    "done": false
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-06-08 23:42:13 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

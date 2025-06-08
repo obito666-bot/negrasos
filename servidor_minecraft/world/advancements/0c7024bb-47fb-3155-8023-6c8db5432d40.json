@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-08 23:38:38 +0000"
-    },
-    "done": true
-  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-06-08 23:38:37 +0000"
@@ -37,7 +31,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-06-08 23:38:37 +0000"
+      "update_0": "2025-06-08 23:43:34 +0000"
     },
     "done": true
   },
@@ -53,6 +47,18 @@
     },
     "done": true
   },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-06-08 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-08 23:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-06-08 23:38:38 +0000",
@@ -60,9 +66,111 @@
     },
     "done": false
   },
-  "parcool:grant_parcool_guide": {
+  "jujutsucraft:advancement_select_technique": {
     "criteria": {
-      "tick": "2025-06-08 23:38:37 +0000"
+      "advancement_select_technique_0": "2025-06-08 23:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_dismantle": {
+    "criteria": {
+      "skill_dismantle_0": "2025-06-08 23:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_sukuna": {
+    "criteria": {
+      "skill_sukuna_0": "2025-06-08 23:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_cleave": {
+    "criteria": {
+      "skill_cleave_0": "2025-06-08 23:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-08 23:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-08 23:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-06-08 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-08 23:46:04 +0000"
     },
     "done": true
   },
