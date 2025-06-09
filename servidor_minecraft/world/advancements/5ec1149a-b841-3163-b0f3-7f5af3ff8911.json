@@ -1,189 +1,335 @@
 {
   "jujutsucraft:jujutsu_craft_skills": {
     "criteria": {
-      "jujutsu_craft_skills_0": "2025-06-08 23:56:32 +0000"
+      "jujutsu_craft_skills_0": "2025-06-09 00:55:37 +0000"
     },
     "done": true
   },
   "jujutsucraft:skill_divine_dog_totality": {
     "criteria": {
-      "skill_divine_dog_totality_0": "2025-06-08 23:56:32 +0000"
+      "skill_divine_dog_totality_0": "2025-06-09 00:55:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-06-08 23:56:32 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_egg": {
-    "criteria": {
-      "has_eggs": "2025-06-08 23:56:32 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_advancements": {
-    "criteria": {
-      "battle_advancements_0": "2025-06-08 23:56:32 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_merged_beast_agito": {
-    "criteria": {
-      "skill_merged_beast_agito_0": "2025-06-08 23:56:32 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:start_jujutsu_craft": {
-    "criteria": {
-      "start_jujutsu_craft_0": "2025-06-08 23:56:32 +0000"
-    },
-    "done": true
-  },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2025-06-08 23:56:32 +0000"
+      "unlock_right_away": "2025-06-09 00:55:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_lots_of_items": "2025-06-08 23:56:33 +0000"
+      "has_lots_of_items": "2025-06-09 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-06-09 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_advancements": {
+    "criteria": {
+      "battle_advancements_0": "2025-06-09 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_merged_beast_agito": {
+    "criteria": {
+      "skill_merged_beast_agito_0": "2025-06-09 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:start_jujutsu_craft": {
+    "criteria": {
+      "start_jujutsu_craft_0": "2025-06-09 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-06-09 00:55:37 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:grove": "2025-06-09 00:03:50 +0000",
-      "minecraft:forest": "2025-06-08 23:56:33 +0000",
-      "minecraft:meadow": "2025-06-08 23:56:55 +0000"
+      "minecraft:birch_forest": "2025-06-09 01:04:18 +0000",
+      "minecraft:grove": "2025-06-09 00:55:38 +0000",
+      "minecraft:forest": "2025-06-09 00:55:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-09 01:03:05 +0000",
+      "minecraft:plains": "2025-06-09 00:56:46 +0000"
     },
     "done": false
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-06-08 23:56:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-08 23:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-06-08 23:57:17 +0000"
-    },
-    "done": false
-  },
-  "jujutsucraft:advancement_insect": {
-    "criteria": {
-      "advancement_insect_0": "2025-06-08 23:58:46 +0000"
-    },
-    "done": true
   },
   "jujutsucraft:advancement_select_technique": {
     "criteria": {
-      "advancement_select_technique_0": "2025-06-09 00:00:40 +0000"
+      "advancement_select_technique_0": "2025-06-09 00:55:55 +0000"
     },
     "done": true
   },
   "jujutsucraft:skill_copy": {
     "criteria": {
-      "skill_copy_0": "2025-06-09 00:00:40 +0000"
+      "skill_copy_0": "2025-06-09 00:55:55 +0000"
     },
     "done": true
   },
-  "jujutsucraft:fame_3": {
+  "jujutsucraft:advancement_insect": {
     "criteria": {
-      "fame_3_0": "2025-06-09 00:01:04 +0000"
+      "advancement_insect_0": "2025-06-09 00:56:22 +0000"
     },
     "done": true
   },
-  "jujutsucraft:fame_4": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "fame_4_0": "2025-06-09 00:01:04 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2025-06-09 00:04:21 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "jujutsucraft:update": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "update_0": "2025-06-09 00:32:50 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "jujutsucraft:battle_ogami": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "battle_ogami_0": "2025-06-09 00:39:02 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "jujutsucraft:sorcerer_grade_4": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "sorcerer_grade_4_0": "2025-06-09 00:26:54 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
-      "has_wood_slab": "2025-06-09 00:21:29 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
-      "has_item_frame": "2025-06-09 00:28:13 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "recrafted_creatures:unfamiliar_fauna": {
+  "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
-      "owl": "2025-06-09 00:39:16 +0000"
-    },
-    "done": false
-  },
-  "backpacked:recipes/decorations/spruce_backpack_shelf": {
-    "criteria": {
-      "has_slab": "2025-06-09 00:21:29 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "recrafted_creatures:root": {
+  "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
-      "requirement": "2025-06-09 00:39:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-09 00:28:11 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_wood_slab": "2025-06-09 00:21:29 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "jujutsucraft:reverse_cursed_technique_2": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "reverse_cursed_technique_2_0": "2025-06-09 00:32:09 +0000"
+      "has_planks": "2025-06-09 00:57:22 +0000"
     },
     "done": true
   },
-  "jujutsucraft:reverse_cursed_technique_1": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "reverse_cursed_technique_1_0": "2025-06-09 00:19:17 +0000"
+      "killed_something": "2025-06-09 00:57:58 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:fame_3": {
+    "criteria": {
+      "fame_3_0": "2025-06-09 00:57:58 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:fame_4": {
+    "criteria": {
+      "fame_4_0": "2025-06-09 00:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-09 00:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "suspicious_stew": "2025-06-09 00:59:57 +0000"
+    },
+    "done": false
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 00:59:58 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-09 01:02:24 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:update": {
+    "criteria": {
+      "update_0": "2025-06-09 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-09 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-09 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-09 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-09 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-09 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-09 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-09 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-09 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-09 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-09 01:18:10 +0000"
     },
     "done": true
   },
