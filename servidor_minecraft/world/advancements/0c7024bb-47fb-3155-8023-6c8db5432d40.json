@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-09 01:20:46 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_divine_dog_totality": {
     "criteria": {
       "skill_divine_dog_totality_0": "2025-06-09 00:55:34 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-09 01:05:30 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-09 01:17:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_4": {
+    "criteria": {
+      "sorcerer_grade_4_0": "2025-06-09 01:26:45 +0000"
     },
     "done": true
   },
@@ -257,9 +275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-09 01:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 01:25:38 +0000"
     },
     "done": true
   },
@@ -305,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 01:15:53 +0000"
@@ -317,15 +353,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-09 01:19:40 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-06-09 01:14:27 +0000"
+      "update_0": "2025-06-09 01:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-06-09 01:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
     },
     "done": true
   },
@@ -344,6 +404,18 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-09 01:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 01:19:40 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
     },
     "done": true
   },
@@ -368,6 +440,12 @@
   "backpacked:recipes/decorations/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-06-09 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
     },
     "done": true
   },
@@ -425,6 +503,12 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_haruta_shigemo": {
+    "criteria": {
+      "battle_haruta_shigemo_0": "2025-06-09 01:26:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 01:15:53 +0000"
@@ -434,6 +518,12 @@
   "jujutsucraft:skill_cleave": {
     "criteria": {
       "skill_cleave_0": "2025-06-09 00:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-09 01:25:38 +0000"
     },
     "done": true
   },
@@ -527,6 +617,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-06-09 01:15:13 +0000"
@@ -575,6 +671,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-09 01:04:00 +0000"
@@ -590,6 +692,18 @@
   "jujutsucraft:skill_merged_beast_agito": {
     "criteria": {
       "skill_merged_beast_agito_0": "2025-06-09 00:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-09 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
     },
     "done": true
   },
@@ -734,9 +848,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 01:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-09 01:28:54 +0000"
     },
     "done": true
   },

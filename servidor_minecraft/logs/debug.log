@@ -4804,3 +4804,43 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [09Jun2025 01:20:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has made the advancement [Suit Up]
 [09Jun2025 01:22:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has made the advancement [Stone Age]
 [09Jun2025 01:22:51.190] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/317, l='ServerLevel[world]', x=224.51, y=104.49, z=228.97] died, message: 'Villager died'
+[09Jun2025 01:24:09.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 01:24:09.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 01:24:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has reached the goal [Reverse Cursed Technique Lv1]
+[09Jun2025 01:24:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret died
+[09Jun2025 01:25:02.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/18873, l='ServerLevel[world]', x=281.50, y=119.00, z=396.50] died, message: 'Cleric died'
+[09Jun2025 01:25:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:25:21.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:25:42.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:25:45.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/389, l='ServerLevel[world]', x=307.07, y=120.00, z=186.35] died, message: 'Villager died'
+[09Jun2025 01:25:58.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret died
+[09Jun2025 01:26:30.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:26:45.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has made the advancement [Hunger for Luck]
+[09Jun2025 01:26:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has made the advancement [Grade 4 Sorcerer]
+[09Jun2025 01:26:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has made the advancement [Hunger for Luck]
+[09Jun2025 01:26:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has made the advancement [Grade 4 Sorcerer]
+[09Jun2025 01:27:52.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:28:15.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/386, l='ServerLevel[world]', x=315.39, y=119.00, z=189.31] died, message: 'Butcher died'
+[09Jun2025 01:28:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret died
+[09Jun2025 01:29:08.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1956, l='ServerLevel[world]', x=244.70, y=123.74, z=218.30] died, message: 'Butcher died'
+[09Jun2025 01:29:08.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/371, l='ServerLevel[world]', x=247.41, y=120.19, z=216.70] died, message: 'Jujutsu Sorcerer died'
+[09Jun2025 01:29:09.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 01:29:09.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 01:29:17.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:29:19.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has reached the goal [Reverse Cursed Technique Lv1]
+[09Jun2025 01:29:22.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has made the advancement [Negi]
+[09Jun2025 01:30:14.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret died
+[09Jun2025 01:30:15.888] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/400, l='ServerLevel[world]', x=242.13, y=124.46, z=221.98] died, message: 'Fisherman died'
+[09Jun2025 01:30:39.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has made the advancement [Getting an Upgrade]
+[09Jun2025 01:31:31.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/625, l='ServerLevel[world]', x=318.99, y=119.00, z=192.70] died, message: 'Fisherman died'
+[09Jun2025 01:31:35.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/327, l='ServerLevel[world]', x=255.47, y=124.00, z=190.67] died, message: 'Fisherman died'
+[09Jun2025 01:31:35.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/378, l='ServerLevel[world]', x=255.39, y=124.02, z=191.12] died, message: 'Fisherman died'
+[09Jun2025 01:31:37.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/265, l='ServerLevel[world]', x=249.41, y=121.10, z=189.07] died, message: 'Fisherman died'
+[09Jun2025 01:31:39.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1957, l='ServerLevel[world]', x=247.70, y=123.00, z=197.99] died, message: 'Butcher died'
+[09Jun2025 01:31:57.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:32:09.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died because of Cursed Spirit Grade 2
+[09Jun2025 01:32:26.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret died
+[09Jun2025 01:32:30.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has made the advancement [Fame -2-]
+[09Jun2025 01:32:38.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:32:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:32:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has completed the challenge [Observation of the Soul]
