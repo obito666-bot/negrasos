@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "jujutsucraft:mastery_simple_domain": {
+    "criteria": {
+      "mastery_simple_domain_0": "2025-06-09 01:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-06-09 01:17:35 +0000"
@@ -367,7 +373,13 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-06-09 01:28:41 +0000"
+      "update_0": "2025-06-09 01:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-09 01:32:46 +0000"
     },
     "done": true
   },
@@ -671,6 +683,12 @@
     },
     "done": true
   },
+  "jujutsucraft:observation_of_the_soul": {
+    "criteria": {
+      "observation_of_the_soul_0": "2025-06-09 01:32:46 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2025-06-09 01:28:54 +0000"
@@ -788,6 +806,12 @@
     },
     "done": true
   },
+  "jujutsucraft:reverse_cursed_technique_1": {
+    "criteria": {
+      "reverse_cursed_technique_1_0": "2025-06-09 01:29:19 +0000"
+    },
+    "done": true
+  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-06-09 00:55:34 +0000"
@@ -797,6 +821,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-09 01:17:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:fame_2": {
+    "criteria": {
+      "fame_2_0": "2025-06-09 01:32:30 +0000"
     },
     "done": true
   },

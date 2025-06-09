@@ -969,3 +969,155 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [09Jun2025 01:32:38.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
 [09Jun2025 01:32:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
 [09Jun2025 01:32:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has completed the challenge [Observation of the Soul]
+[09Jun2025 01:33:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:33:57.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:34:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:35:02.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1014, l='ServerLevel[world]', x=308.50, y=126.00, z=306.30] died, message: 'Leatherworker died'
+[09Jun2025 01:35:18.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:35:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has reached the goal [Mastery Simple Domain]
+[09Jun2025 01:35:23.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/232, l='ServerLevel[world]', x=226.51, y=105.00, z=152.50] died, message: 'Butcher died'
+[09Jun2025 01:35:39.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/328, l='ServerLevel[world]', x=232.74, y=118.00, z=215.82] died, message: 'Fisherman died'
+[09Jun2025 01:35:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:35:46.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=246, y=129, z=196}
+[09Jun2025 01:35:50.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/316, l='ServerLevel[world]', x=235.27, y=104.00, z=231.49] died, message: 'Farmer died'
+[09Jun2025 01:36:03.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Teleported Xonsret to El_Vertex_mc]
+[09Jun2025 01:36:07.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:36:17.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:36:25.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:37:01.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has reached the goal [Mastery Simple Domain]
+[09Jun2025 01:37:02.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has made the advancement [Acquire Hardware]
+[09Jun2025 01:37:08.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/334, l='ServerLevel[world]', x=254.46, y=108.27, z=114.38] died, message: 'Villager died'
+[09Jun2025 01:37:08.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258, l='ServerLevel[world]', x=255.36, y=109.23, z=112.54] died, message: 'Villager died'
+[09Jun2025 01:37:08.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/259, l='ServerLevel[world]', x=254.91, y=108.87, z=113.83] died, message: 'Villager died'
+[09Jun2025 01:37:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:37:20.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has made the advancement [Suit Up]
+[09Jun2025 01:37:29.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:37:45.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Teleported Moreauler to Xonsret]
+[09Jun2025 01:37:50.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:37:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:38:04.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has completed the challenge [Six Eyes]
+[09Jun2025 01:38:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has made the advancement [Infinity]
+[09Jun2025 01:38:05.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19131, l='ServerLevel[world]', x=396.75, y=111.00, z=325.50] died, message: 'Villager died'
+[09Jun2025 01:38:20.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:38:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler was killed
+[09Jun2025 01:38:22.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:38:25.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler was killed
+[09Jun2025 01:38:34.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:38:36.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:39:09.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:40:12.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died because of Moreauler
+[09Jun2025 01:40:15.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:40:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:40:27.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:40:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has made the advancement [Twin]
+[09Jun2025 01:40:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has made the advancement [Grade 3 Sorcerer]
+[09Jun2025 01:40:48.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/240, l='ServerLevel[world]', x=180.50, y=100.00, z=182.51] died, message: 'Villager died'
+[09Jun2025 01:40:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:41:04.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has reached the goal [Reverse Cursed Technique Lv2]
+[09Jun2025 01:41:06.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has reached the goal [Reverse Cursed Technique Lv1]
+[09Jun2025 01:41:12.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has reached the goal [Reverse Cursed Technique Lv2]
+[09Jun2025 01:41:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has reached the goal [Reverse Cursed Technique Lv2]
+[09Jun2025 01:41:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has reached the goal [Mastery Domain Amplification (WIP)]
+[09Jun2025 01:41:24.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc was killed
+[09Jun2025 01:41:28.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has completed the challenge [Mastery Domain Expansion]
+[09Jun2025 01:41:28.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has completed the challenge [Open Barrier Type Domain]
+[09Jun2025 01:41:31.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has completed the challenge [Anti-Open Barrier Type Domain]
+[09Jun2025 01:41:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc was killed
+[09Jun2025 01:41:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has completed the challenge [Mastery Domain Expansion]
+[09Jun2025 01:41:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret has reached the goal [Mastery Falling Blossom Emotion]
+[09Jun2025 01:41:58.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has reached the goal [Mastery Falling Blossom Emotion]
+[09Jun2025 01:42:19.831] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.749] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Jun2025 01:42:34.750] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.750] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:20.081] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.750] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Jun2025 01:42:34.750] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.750] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.751] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 0
+[09Jun2025 01:42:34.754] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.754] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[09Jun2025 01:42:34.754] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.754] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.754] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 0
+[09Jun2025 01:42:34.754] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.754] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[09Jun2025 01:42:34.755] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.755] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.755] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 0
+[09Jun2025 01:42:34.755] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.755] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Jun2025 01:42:34.750] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.755] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.759] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.759] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 1
+[09Jun2025 01:42:34.760] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.760] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[09Jun2025 01:42:34.758] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.761] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[09Jun2025 01:42:34.761] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.762] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.762] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xonsret moved too quickly! -7.131455426483228,0.0,-7.363921745426268
+[09Jun2025 01:42:34.763] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.762] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.764] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 1
+[09Jun2025 01:42:34.764] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.764] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[09Jun2025 01:42:34.764] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.765] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.765] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 1
+[09Jun2025 01:42:34.765] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.765] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[09Jun2025 01:42:34.765] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.765] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.765] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 1
+[09Jun2025 01:42:34.764] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.766] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[09Jun2025 01:42:34.766] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.766] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.766] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.766] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.766] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.767] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.768] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.769] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.770] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.770] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[09Jun2025 01:42:34.771] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.771] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.771] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.771] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jun2025 01:42:34.771] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Jun2025 01:42:34.772] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jun2025 01:42:34.772] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jun2025 01:42:34.772] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[09Jun2025 01:42:34.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24180ms or 483 ticks behind
+[09Jun2025 01:42:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:42:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:43:14.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
