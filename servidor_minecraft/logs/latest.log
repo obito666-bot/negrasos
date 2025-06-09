@@ -1121,3 +1121,60 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [09Jun2025 01:42:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
 [09Jun2025 01:42:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
 [09Jun2025 01:43:14.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:43:49.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has made the advancement [Suit Up]
+[09Jun2025 01:44:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:44:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:44:20.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Spectator Mode]
+[09Jun2025 01:44:34.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xonsret moved too quickly! 2.9631298285502794,9.692100828198434,-2.4638384892261342
+[09Jun2025 01:44:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:44:34.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13702ms or 274 ticks behind
+[09Jun2025 01:45:17.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moreauler lost connection: Disconnected
+[09Jun2025 01:45:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler left the game
+[09Jun2025 01:45:17.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_Vertex_mc lost connection: Disconnected
+[09Jun2025 01:45:17.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc left the game
+[09Jun2025 01:45:17.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xonsret lost connection: Disconnected
+[09Jun2025 01:45:17.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret left the game
+[09Jun2025 01:45:17.111] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 01:45:18.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28855ms or 577 ticks behind
+[09Jun2025 01:45:20.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xonsret[/10.147.19.75:55424] logged in with entity id 53853 at (266.9388864064702, 128.93750113332908, 255.86507293802754)
+[09Jun2025 01:45:20.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xonsret joined the game
+[09Jun2025 01:45:20.643] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Xonsret
+[09Jun2025 01:45:21.710] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Xonsret
+[09Jun2025 01:45:22.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Moreauler[/10.147.19.91:55728] logged in with entity id 54052 at (278.71050423718646, 119.0, 255.24978478294594)
+[09Jun2025 01:45:22.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler joined the game
+[09Jun2025 01:45:22.980] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Moreauler
+[09Jun2025 01:45:23.119] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Moreauler
+[09Jun2025 01:45:26.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_Vertex_mc[/10.147.19.160:50922] logged in with entity id 54155 at (266.6976151870165, 119.0, 251.59788411996513)
+[09Jun2025 01:45:26.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc joined the game
+[09Jun2025 01:45:26.937] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to El_Vertex_mc
+[09Jun2025 01:45:27.292] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from El_Vertex_mc
+[09Jun2025 01:45:43.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has reached the goal [Mastery Domain Amplification (WIP)]
+[09Jun2025 01:45:54.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:46:07.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[09Jun2025 01:46:14.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:46:22.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:47:50.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Teleported El_Vertex_mc to Xonsret]
+[09Jun2025 01:48:07.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:48:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has reached the goal [Mastery Simple Domain]
+[09Jun2025 01:48:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc has completed the challenge [Mastery Domain Expansion]
+[09Jun2025 01:48:21.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/274, l='ServerLevel[world]', x=269.49, y=121.88, z=174.48] died, message: 'Fisherman died'
+[09Jun2025 01:48:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:49:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler died
+[09Jun2025 01:49:48.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:50:49.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/363, l='ServerLevel[world]', x=305.29, y=121.00, z=186.63] died, message: 'Fisherman died'
+[09Jun2025 01:50:54.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/362, l='ServerLevel[world]', x=311.52, y=118.00, z=182.56] died, message: 'Villager died'
+[09Jun2025 01:51:18.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Creative Mode]
+[09Jun2025 01:51:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Set own game mode to Survival Mode]
+[09Jun2025 01:52:03.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler was killed
+[09Jun2025 01:52:03.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Killed Moreauler]
+[09Jun2025 01:52:17.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xonsret: Kicked Moreauler: Kicked by an operator]
+[09Jun2025 01:52:17.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moreauler lost connection: Kicked by an operator
+[09Jun2025 01:52:17.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler left the game
+[09Jun2025 01:52:29.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Moreauler[/10.147.19.91:55784] logged in with entity id 58909 at (255.399339598593, 119.0, 235.22062038923616)
+[09Jun2025 01:52:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler joined the game
+[09Jun2025 01:52:29.573] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Moreauler
+[09Jun2025 01:52:29.687] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Moreauler
+[09Jun2025 01:52:44.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_Vertex_mc died
+[09Jun2025 01:52:51.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1024, l='ServerLevel[world]', x=340.64, y=119.56, z=242.92] died, message: 'Mason died'
+[09Jun2025 01:52:51.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/433, l='ServerLevel[world]', x=336.81, y=120.07, z=243.84] died, message: 'Weaponsmith died'
+[09Jun2025 01:53:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moreauler has made the advancement [Fame -2-]
